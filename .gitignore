@@ -1,17 +1,14 @@
 # Node.js
-node_modules/
-package-lock.json
+# node_modules/         ← Descomentado para permitir subir node_modules
+# package-lock.json     ← También lo vas a subir, así que se comenta
 
 # ANTLR
-*.interp
-*.tokens
-*.jar
-
-# Archivos generados automáticamente
-Proyecto/generated/
+# *.interp              ← Permitís subir los archivos .interp
+# *.tokens              ← Permitís subir los archivos .tokens
+# *.jar                 ← Permitís subir antlr-4.13.2-complete.jar
 
 # Configuración del IDE (Visual Studio Code)
-.vscode/
+# .vscode/              ← Permitís subir .vscode/ con launch.json, etc.
 
 # Archivos temporales
 *.log
