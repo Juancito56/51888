@@ -1,0 +1,5 @@
+Entrada Correcta 1:
+
+variable saludo = "Hola";
+
+
