@@ -17,3 +17,4 @@ Guía para utilizar el Analizador
    
    ![image](https://github.com/user-attachments/assets/b8cff32c-e068-4002-8510-d665f8b491bb)
 
+8) Modifiqué y subí el archivo .gitignore porque tuve problemas a la hora de subir mi proyecto al GitHub
